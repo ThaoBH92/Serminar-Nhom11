@@ -262,4 +262,5 @@ III. CÁC MODULES CÀI ĐẶT THÊM
 	Khách hàng có thể chọn cách thanh toán này khi chưa có tài khoản ngân hàng.
 11. Thanh toán qua tài khoản ngân hàng(nộp tiền-chuyển khoản)- Cash on delivery.
 	Có thể thanh toán bằng tiền mặt quua tài khoản ngân hàng
-	
+12. Google site map 
+	Module tạo ra sơ đồ trang web để sử dụng công cụ google master tool do google cung cấp để hổ trợ việc tìm kiếm trên google đến trang web của bạn

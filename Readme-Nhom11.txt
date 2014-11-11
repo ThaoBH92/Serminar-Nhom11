@@ -247,7 +247,7 @@ III. CÁC MODULES CÀI ĐẶT THÊM
 	Thông báo thông tin cho người dùng với các hoạt động sau:
 	Đăng ký thành viên, Đặt hàng, chọn phương thức thanh toán, hoàn thành thanh toán.
 6. Google Analytics
-	SEO
+	
 7. Livechat OfferChat
 	Server Livechat được cài đặt trên localhost của website: giaytructuuyen.16mb.com
 	Có thể thêm nhân viên trực chat(thêm user).
